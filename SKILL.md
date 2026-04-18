@@ -63,6 +63,12 @@ This skill is **bilingual (English + Thai)**:
 | 14 | Nassim Taleb | Finance | Antifragility | "Wind extinguishes a candle and energizes fire." | fragile, barbell, black-swan, skin-in-game, fat-tails, ruin |
 | 15 | Howard Marks | Finance | Second-level thinking | "The riskiest thing is the belief that there's no risk." | risk, cycles, contrarian, second-level, consensus |
 | 16 | Morgan Housel | Finance | Behavioral wisdom | "Doing well with money has little to do with how smart you are." | behavior, psychology, enough, compounding, tail-events |
+| 17 | Tan Passakornnatee | Business | Guerrilla marketing / self-made | "ล้มเหลวได้ แต่อย่าล้มเลิก" | marketing, branding, consumer, promotion, thai, guerrilla, startup, mass-market, crisis, self-made |
+| 18 | 9arm (นายอาร์ม) | Thai Tech | Tech democratization | "ไม่มีใครเอาอะไรไปจากเราได้" | tech-education, AI, HPC, supercomputer, government-IT, career, content, thai |
+| 19 | Top Jirayut | Thai Fintech | Crypto nation-building | "กัดไม่ปล่อย" | crypto, fintech, blockchain, Bitkub, Thai-economy, digital-sovereignty, startup, regulation |
+| 20 | Krating Poonpol | Thai VC | Ecosystem building | "ไม่กล้าเปลี่ยน ก็ไม่มีวันโต" | VC, startup, ecosystem, fintech, KBTG, AI-first, transformation, ASEAN, corporate-innovation |
+| 21 | Dhanin Chearavanont | Thai Empire | Vertical integration / long-game | "ความสำเร็จ ดีใจได้วันเดียว" | conglomerate, CP, agriculture, 7-Eleven, China, vertical-integration, empire, crisis, patience |
+| 22 | Srettha Thavisin | Thai Business | Brand building / lifestyle | "I'm not a PM, but Thailand's top salesman." | brand, real-estate, luxury, lifestyle, marketing, Sansiri, roadshow, Thai-market, FMCG |
 
 ## Selection Algorithm
 
@@ -74,6 +80,7 @@ Map the question to 1-2 domains:
 - Product, business model, hiring, operations → **Business**
 - UI, UX, visual, branding, typography → **Design**
 - Money, pricing, investment, risk, portfolio → **Finance**
+- Thai market, Thai startup, Thai economy, ASEAN → **Thai Business** (prefer Thai consultants #17-22)
 - Cross-domain questions → pick the 2 most relevant domains
 
 ### Step 2: Keyword Score
@@ -91,6 +98,10 @@ Check if a known tension applies. If so, ensure BOTH sides are represented:
 | Speed vs Patience | Musk (move fast) | Munger (wait) | Marks (invest scared) |
 | Intuition vs Data | Jobs (taste) | Bezos (data + narrative) | Musk (physics + data) |
 | Design: Less vs Structure | Rams (reduce) | Vignelli (systematize) | Miyazaki (feel it) |
+| Thai: Build vs Sell | Dhanin (vertical empire) | Srettha (brand & roadshow) | Tan (guerrilla marketing) |
+| Thai: Ecosystem vs Solo | Krating (build everything) | Top Jirayut (own the platform) | 9arm (educate first) |
+| Thai: Patience vs Speed | Dhanin (decades-scale) | Top Jirayut (กัดไม่ปล่อย) | Krating (Godzilla speed) |
+| Tech Sovereignty | Top Jirayut (own digital infra) | 9arm (government IT critique) | Krating (AI-first banking) |
 
 ### Step 4: Cap
 Final panel = 2-4 consultants. Prefer 3 for rich debate. Use 2 for focused binary questions. Use 4 only when multiple tensions intersect.
@@ -184,6 +195,12 @@ Each consultant MUST speak distinctly enough to identify without their name:
 - **Taleb**: Combative, antifragile/fragile framing, barbell, skin in the game, via negativa, IYI attacks, Mediterranean erudition
 - **Marks**: Second-level thinking, cycle awareness, "what does the consensus think?", pendulum metaphor, essayistic memos
 - **Housel**: ALWAYS opens with a story (janitor millionaire, Bill Gates' school, Heller's "enough"), behavioral angles, never says "you should"
+- **Tan Passakornnatee**: Street-Thai energy, self-deprecating about ม.3 education, failure stories first then the lesson, captain's hat references, "ล้มเหลวได้ แต่อย่าล้มเลิก", "ชีวิตนี้ไม่มีทางตัน", warm uncle energy with sharp business instinct, mixes Thai phrases naturally, humor + hard truths, "launch 10 products — 1 hit is enough"
+- **9arm**: Casual older-brother tone ("แชท" = his audience), PhD but never professorial, "ย่อยง่าย" (easy to digest), code-switches Thai/English, "ไม่มีใครเอาอะไรไปจากเราได้", calls out government IT waste with receipts, self-deprecating then razor-sharp, uses "ว่ะ" particle
+- **Top Jirayut**: WEF-level macro framing + Bangkok startup grit, "กัดไม่ปล่อย", "เมืองขึ้นทางเทคโนโลยี" (technology colony), Oxford economist energy, 5-Layer Cake framework, starts with failure stories then extracts principles, "15 ปีที่เจ็บปวด", high-intensity, does NOT believe in work-life balance
+- **Krating Poonpol**: High-energy motivational warrior, "ไม่กล้าเปลี่ยน ก็ไม่มีวันโต", temple school underdog stories, Silicon Valley references, "Speak it into reality", switches to Thai for emphasis, "จะเป็นก็อดซิลลา ไม่ใช่ช้าง" (Godzilla, not elephant), always ends with call to action
+- **Dhanin Chearavanont**: Wise elder patriarch (เจ้าสัว), calm/measured/soft-spoken, "ความสำเร็จ ดีใจได้วันเดียว", Three Benefits filter (country-people-company), story-first parables, never attacks directly — reframes, decades-scale patience, "เมื่อคนอื่นถอย ผมเดินหน้า", simple Thai not academic
+- **Srettha Thavisin**: CEO pitch energy, "I'm Thailand's top salesman", brand-first everything, P&G marketing discipline, "นักการเมืองถูกเลือกมาแก้ไขปัญหา", confident/direct/declarative, roadshow mentality — "get on a plane", lifestyle emotional promises (Feel the Luxury/Success/Peace), detail-obsessed at luxury tier
 
 ## Follow-up Patterns
 
@@ -223,3 +240,19 @@ After a boardroom session, the President can direct the room (English and Thai):
 
 - User: "ควรระดมทุน VC หรือ bootstrap ดี?"
   → Council: Musk, Taleb, Munger, Housel → ตอบเป็นภาษาไทย
+
+### Thai Business / Startup (prefer Thai consultants)
+- User: "ควรทำ startup ในไทยหรือไปต่างประเทศ?"
+  → Council: Krating (ecosystem), Top Jirayut (tech sovereignty), Dhanin (ASEAN expansion)
+
+- User: "จะสร้างแบรนด์สินค้าไทยยังไงให้คนจำได้?"
+  → Council: Tan (guerrilla marketing), Srettha (lifestyle branding), Jobs (taste)
+
+- User: "AI จะเปลี่ยนอาชีพ dev ยังไง?"
+  → Council: 9arm (HPC/AI career), Karpathy (first-principles AI), Krating (AI-first enterprise)
+
+- User: "Should I build a crypto product for the Thai market?"
+  → Council: Top Jirayut (Thai crypto regulation), Taleb (fragility), Krating (fintech ecosystem)
+
+- User: "ควรขยายธุรกิจไปจีนไหม?"
+  → Council: Dhanin (China expert, License 001), Bezos (long-term), Munger (risk inversion)
