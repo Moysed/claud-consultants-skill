@@ -1,8 +1,8 @@
-# /consult — Consultant Council
+# /consult — The Boardroom
 
-> Convene 2-4 world-class consultants for a multi-perspective debate on your strategic decisions.
+> Step into an immersive advisory boardroom. You're the President. 2-4 world-class advisors debate your strategic decisions in real-time.
 
-16 deep-research personas across Business, Engineering, Design, and Finance — each with authentic voice, real frameworks, signature quotes, and known blind spots. Ask a strategic question, get a council debate with synthesis.
+16 deep-research personas across Business, Engineering, Design, and Finance — each with authentic voice, real frameworks, signature quotes, and known blind spots. They speak directly to you, react to each other, interrupt, challenge, and deliver a clear recommendation.
 
 **Bilingual: English + Thai (ภาษาไทย)** — Ask in Thai, get Thai responses. Signature quotes stay in original English.
 
@@ -36,14 +36,32 @@ That's it. No dependencies. No config. Just `/consult`.
 ### Auto-trigger
 The skill auto-detects strategic questions about architecture, design, investing, pricing, rewrites, scaling, and product direction — in both English and Thai. Just ask naturally.
 
-### Follow-ups
-After a debate, you can:
-- **"What would Taleb say?"** / **"Taleb จะว่ายังไง?"** — single-consultant deep dive
-- **"Add Bezos to the debate"** / **"เพิ่ม Bezos เข้ามา"** — bring in a new voice
-- **"Go deeper on Munger's point"** / **"ขยายประเด็นของ Munger"** — expand one argument
-- **"Who disagrees?"** / **"ใครไม่เห็นด้วย?"** — find the strongest contrarian
+### The Meeting
 
-## The 16 Consultants
+When you invoke `/consult`, the environment transforms into a boardroom:
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  BOARDROOM SESSION
+  Advisors: Torvalds, Hotz, Carmack
+  Agenda: Should we rewrite the auth system?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+Advisors speak directly to you as "President", react to each other by name, interrupt, and challenge. Stage directions (*leans forward*, *shakes head*, *taps the table*) make it feel alive.
+
+The session closes with an **Executive Summary** — consensus, tensions, recommended action, and risk of inaction.
+
+### Directing the Room
+
+After a session, you can:
+- **"Call on Taleb"** / **"เรียก Taleb มาพูด"** — single-advisor deep dive
+- **"Bring Bezos into the room"** / **"เพิ่ม Bezos เข้ามา"** — new voice enters and reacts
+- **"Munger, elaborate"** / **"ขยายประเด็นของ Munger"** — expand one advisor's argument
+- **"Who disagrees?"** / **"ใครไม่เห็นด้วย?"** — strongest contrarian enters the room
+- **"Adjourn"** / **"ปิดประชุม"** — end with final summary
+
+## The 16 Advisors
 
 ### Business & Leadership
 | Name | Lens | Signature |
@@ -79,7 +97,7 @@ After a debate, you can:
 
 ## Key Tensions (Built-in Debate Fuel)
 
-The skill automatically pairs consultants who disagree on the topic:
+The skill automatically pairs advisors who disagree on the topic:
 
 - **Rewrites**: Torvalds (never) vs Hotz (always) vs Carmack (profile first)
 - **Concentration vs Diversification**: Buffett vs Dalio vs Taleb
@@ -90,22 +108,22 @@ The skill automatically pairs consultants who disagree on the topic:
 
 ## How It Works
 
-1. **Selection index** (~800 bytes) is always in context — zero tool calls to pick consultants
-2. **Domain + keyword matching** narrows to 2-3 relevant consultants
+1. **Selection index** (~800 bytes) is always in context — zero tool calls to pick advisors
+2. **Domain + keyword matching** narrows to 2-3 relevant advisors
 3. **Tension injection** ensures opposing viewpoints when a known debate applies
-4. **On-demand profile loading** — only selected consultants' full profiles are read (~3-5K each)
-5. **Structured debate output** with individual voices + synthesis
+4. **On-demand profile loading** — only selected advisors' full profiles are read (~3-5K each)
+5. **Immersive boardroom output** with cross-talk, stage directions, and executive summary
 
 Token budget per invocation: ~9K-23K (vs ~60K+ if all profiles were loaded).
 
 ## Customization
 
-### Add your own consultant
+### Add your own advisor
 1. Create a new `.md` file in `consultants/` following the existing format (frontmatter with title, domain, lens, signature + sections for Philosophy, Frameworks, Communication DNA, Advice Style, Best For)
 2. Add a row to the Selection Index table in `SKILL.md`
 3. Add relevant tensions to the Tension Injection table
 
-### Modify a consultant
+### Modify an advisor
 Edit their `.md` profile directly. The skill reads profiles at invocation time — changes take effect immediately.
 
 ## Structure

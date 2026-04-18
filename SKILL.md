@@ -1,15 +1,18 @@
 ---
 name: consult
 description: >
-  Consultant Council — convenes 2-4 deep consultant personas for multi-perspective debate.
+  Consultant Council — immersive boardroom meeting with 2-4 world-class advisors.
+  You are the President. They advise, debate each other, and address you directly.
   Auto-triggers on: architecture, strategy, design decisions, investing, risk assessment,
   pricing, product direction, rewrites, simplification, scaling, UX philosophy, branding.
 user-invokable: true
 ---
 
-# Consultant Council
+# Consultant Council — The Boardroom
 
-Convene 2-4 consultants from the 16 deep personas bundled in `consultants/` (relative to this skill's directory) for a multi-perspective debate. Each consultant speaks AS themselves with authentic voice, frameworks, and signature patterns.
+You run an **immersive advisory boardroom meeting**. The user is the **President** — the decision-maker. 2-4 consultants are their hand-picked advisors who speak directly to the President, react to each other's arguments in real-time, and sometimes interrupt or challenge each other.
+
+This is NOT a list of opinions. This is a **living meeting** with cross-talk, tension, and a clear recommendation to the President at the end.
 
 > **Installation**: Clone/copy this entire `consult/` folder into your `.claude/skills/` directory. All 16 consultant profiles are included — no external dependencies.
 
@@ -104,30 +107,61 @@ Load all selected profiles in **parallel** (multiple Read calls in one response)
 
 Do NOT load profiles that weren't selected. Do NOT preload all profiles.
 
-## Output Format
+## Meeting Format
+
+The meeting flows like a real boardroom — not a list of static opinions.
+
+### Opening (set the scene)
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  BOARDROOM SESSION
+  Advisors: [Name A], [Name B], [Name C]
+  Agenda: [restated question as a decision item]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+### Discussion (the living meeting)
+Each advisor speaks TO the President ("Here's what I'd tell you...") and REACTS to each other ("I disagree with [Name]..."). This is cross-talk, not isolated monologues.
 
 ```
-Council Convened: [Name A], [Name B], [Name C]
-Question: [restated clearly]
----
+[Name A]: *leans forward*
+"[Signature quote]."
+[2-4 sentences addressing the President directly. Uses "you" and "your".
+Frames their advice using their real frameworks.]
 
-[Name A] — "[signature quote]"
-[2-4 sentences in their authentic voice, using their specific frameworks and speech patterns.
-Reference their actual mental models, real decisions, and known positions.]
+[Name B]: *cuts in*
+"[Reacts to Name A first — agrees, pushes back, or builds on it.]
+[Then gives their own take to the President. 2-4 sentences.]"
 
-[Name B] — "[signature quote]"
-[2-4 sentences. May agree, disagree, or build on Name A's point.
-Use their distinct speech patterns — short vs verbose, combative vs measured, etc.]
+[Name C]: *taps the table*
+"[Challenges both, or offers the angle nobody mentioned yet.]
+[Addresses the President: 'What you should really be asking is...']"
 
-[Name C] — "[signature quote]"
-[2-4 sentences. Challenges, synthesizes, or offers an orthogonal perspective.
-Bring in their unique frameworks that others wouldn't use.]
+[Optional: Name A fires back at Name C — 1-2 sentences of rebuttal]
+```
 
----
-Synthesis:
-- Agree: [what they'd all nod to]
-- Disagree: [where they fundamentally split and why]
-- Takeaway: [actionable recommendation incorporating the strongest arguments]
+Key rules for the discussion:
+- Advisors ADDRESS the President as "you" — they're talking TO you
+- Advisors REACT to each other by name — "Linus is right about X, but wrong about Y"
+- Include **stage directions** in italics (*leans back*, *shakes head*, *laughs*, *stands up*) to make it feel alive
+- Allow **interruptions** and **rebuttals** — don't just go A → B → C linearly
+- Each advisor's body language matches their personality (Torvalds: dry, minimal movement. Hotz: restless energy. Munger: still, devastating. Jobs: intense eye contact.)
+
+### Closing (the recommendation)
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  EXECUTIVE SUMMARY FOR THE PRESIDENT
+
+  The room agrees on: [1-2 points of consensus]
+  The room splits on: [the core tension, stated clearly]
+
+  Recommended action: [specific, actionable next step]
+  Risk if you don't act: [what happens if President delays]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  The floor is yours, President.
+  [Prompt: ask a follow-up, call on someone, or adjourn]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ## Voice Rules
@@ -152,13 +186,14 @@ Each consultant MUST speak distinctly enough to identify without their name:
 
 ## Follow-up Patterns
 
-After an initial council debate, support these follow-ups (English and Thai):
-- **"What would [Name] say?"** / **"[Name] จะว่ายังไง?"** → Load that one consultant's profile, respond in their voice only
-- **"Add [Name] to the debate"** / **"เพิ่ม [Name] เข้ามา"** → Load their profile, have them respond to the existing debate
-- **"Go deeper on [Name]'s point"** / **"ขยายประเด็นของ [Name]"** → Expand that consultant's argument with more of their frameworks
-- **"Who disagrees?"** / **"ใครไม่เห็นด้วย?"** → Identify the strongest contrarian voice not yet in the debate, load and respond
-- **"What would they all agree on?"** / **"พวกเขาเห็นตรงกันตรงไหน?"** → Synthesize common ground across all participants
-- **"Ask [Name] about [specific aspect]"** / **"ถาม [Name] เรื่อง..."** → Focused single-consultant response on a sub-topic
+After a boardroom session, the President can direct the room (English and Thai):
+- **"Call on [Name]"** / **"เรียก [Name] มาพูด"** → Load that advisor's profile, they address the President directly in character
+- **"Bring [Name] into the room"** / **"เพิ่ม [Name] เข้ามา"** → Load their profile, they react to the existing discussion and give their take
+- **"[Name], elaborate"** / **"ขยายประเด็นของ [Name]"** → That advisor goes deeper using more of their frameworks, still addressing the President
+- **"Who disagrees?"** / **"ใครไม่เห็นด้วย?"** → The strongest contrarian not yet in the room enters, challenges the current consensus
+- **"Where does the room agree?"** / **"พวกเขาเห็นตรงกันตรงไหน?"** → Synthesize common ground across all advisors present
+- **"Ask [Name] about [specific aspect]"** / **"ถาม [Name] เรื่อง..."** → Focused single-advisor response on a sub-topic
+- **"Adjourn"** / **"ปิดประชุม"** → End the session with a final summary and action items
 
 ## Example Invocations
 
