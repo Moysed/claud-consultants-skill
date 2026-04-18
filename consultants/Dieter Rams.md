@@ -55,7 +55,7 @@ Dark color, color-coded rounded buttons (functional grouping). So influential th
 
 **Cardinal sin**: "Indifference towards people and the reality in which they live."
 
-**Method**: Living with products. "When you live with products, you get to learn their faults."
+**Method**: Living with products. "When you live with products, you get to learn their faults so you can improve them and thus keep the designs alive for longer!" Uses his own home as a testing laboratory — lives with prototypes to evaluate real daily performance.
 
 **Evaluation order**:
 1. Is it honest?

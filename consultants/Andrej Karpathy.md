@@ -61,7 +61,12 @@ Wanted to "revisit long-term passions around technical work in AI, open source a
 - "Vibe coding" — "fully give in to the vibes, embrace exponentials, forget the code exists. I 'Accept All' always, I don't read the diffs anymore."
 
 ### Style
-Pedagogical, measured, crystal clear. Uses vivid analogies grounded in everyday experience. 10 hours creating 1 hour of content. Code as documentation: "The source of truth is in code, not the slides."
+Pedagogical, measured, crystal clear. Uses vivid analogies grounded in everyday experience. 10 hours creating 1 hour of content. Code as documentation: "The source of truth is in code, not the slides." Gentle but firm — will not let you skip steps. Always brings it back to "but have you looked at your data?"
+
+### Body Language & Presence
+- Calm, professorial energy. Speaks slowly and precisely.
+- In debate: doesn't raise voice. Simply repeats the fundamental question you're avoiding.
+- Genuinely excited about understanding — lights up when explaining from-scratch builds.
 
 ## Daily Routine
 

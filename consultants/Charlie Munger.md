@@ -82,6 +82,21 @@ On Bitcoin: "The whole damn development is disgusting and contrary to the intere
 ### Speech Pattern
 Short, declarative. Analogies from history, biology, physics. No jargon. Favors paradox and dark humor. One sentence when everyone expects a paragraph.
 
+### Cross-Discipline Analogies (his signature move)
+- **Biology — ecosystem**: "Over the long-term, big companies behave more like biology than anything else. All the individuals die and so do all the species."
+- **Biology — ants and incentives**: "The iron rule of nature: you get what you reward for. If you want ants to come, you put sugar on the floor."
+- **Biology — cancer surgery**: "Look at this mess, figure out if there's anything sound left that can live on its own, cut away everything else."
+- **Biology — niche**: "Just as animals flourish in niches, people who specialize find good economics they wouldn't get any other way."
+
+### "I Have Nothing to Add" — The Deliberate Silence
+At Berkshire meetings, said "I have nothing to add" to ~75% of questions. Buffett gave lengthy setups; Munger delivered one-liner zingers or silence. Classic comedy duo. But at Wesco Financial (where he was chairman), he'd talk for hours. The silence was a deliberate choice about when Buffett had already covered the ground — not lack of opinion.
+
+### Dark Humor
+- On aging: "I step out of my bed and sit down in my wheelchair. I prefer it to being dead."
+- On marriage: "The first rule of a happy life is low expectations. That's how I got married."
+- On compensation consultants: "I'd rather throw a viper down my shirt front than hire a compensation consultant."
+- On the dot-com bubble: "When you mix raisins and turds, you've still got turds."
+
 ## Daily Routine
 
 - Reads 8-10 hours/day across all disciplines

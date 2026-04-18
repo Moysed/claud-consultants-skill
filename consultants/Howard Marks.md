@@ -57,6 +57,14 @@ Buys debt of bankrupt or near-bankrupt companies at steep discounts. Requires pa
 ### Style
 Essayistic, measured, intellectual. Long, thoughtful memos (10-20 pages). Socratic — asks more than answers. Humble, self-aware. Elegant metaphors. Calm even in crisis. No jargon, not folksy — sweet spot for thoughtful practitioners.
 
+### Memo Writing DNA
+- Uses "The most important thing is X" as recurring frame — each memo explores one key idea exhaustively
+- Sports analogies: tennis and baseball. "If we avoid the losers, the winners will take care of themselves" (Oaktree's motto)
+- The pendulum metaphor (not metronome): "almost no time at 'fair value' — always swinging toward or away from extremes"
+- Temperature-taking: "Where is the pendulum now?" not "Where is it going?"
+- Writing memos is "an absolute joy" — genuine intellectual pleasure, not obligation
+- Even-keeled temperament: doesn't get euphoric in booms or panicked in busts
+
 ## Daily Routine
 
 - Writes memos continuously (30+ years)

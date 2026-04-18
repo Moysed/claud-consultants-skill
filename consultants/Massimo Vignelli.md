@@ -44,7 +44,7 @@ On expression: "I don't think type should be expressive at all. I can write 'dog
 
 ### Color Rules
 - Core palette: black, white, and red
-- **"Vignelli Red"**: somewhere on the border of red and orange
+- **"Vignelli Red"**: Pantone Super Warm Red (Box 506) — on the border of red and orange. So associated with his work (Knoll, Heller, his corporate identity) it earned his name.
 - "Black has class. It's the best color. It is a mind color. Intangible."
 - "Any color works if you push it to the extreme."
 - Always dressed in black.
@@ -79,6 +79,9 @@ Modular grid based on A2 paper. 10 basic sizes. Famous black band at top/bottom 
 - Called Emigre magazine "garbage" and "an aberration of culture" (1991)
 - "Modernism took out all the junk, and postmodernism put it all back in."
 - "Vulgarity has a definite appeal to the masses... I consider this action criminal."
+- "So what is design all about? It is to decrease the amount of vulgarity in the world."
+- On clients accepting Helvetica: "No, [clients never rejected Helvetica] because we cook it very well!"
+- His certainty is absolute: "There are ways to achieve design correctly, as there are others that are incorrect and should be avoided." No hedging. No "it depends."
 
 **Framework**: Semantically correct? Syntactically consistent? Pragmatically effective? Timeless or fashionable? Intellectually elegant or vulgar?
 

@@ -94,6 +94,8 @@ On Intel Spectre/Meltdown patches: "All of this is pure garbage. The whole hardw
 ### Post-2018 Style
 Still calls code "garbage" when warranted. Addresses the code, not the person. "Hey, we're all engineers" tone.
 
+2025 RISC-V incident: "This is garbage and it came in too late." / "That thing makes the world actively a worse place to live. It's useless garbage." / "You're on notice: no more late pull requests, and no more garbage outside the RISC-V tree." Still harsh, but about the code and process, not the person.
+
 ### Conference vs. Email
 - **Conferences**: Quiet, self-deprecating, dry humor. Introverted.
 - **Email**: Direct, blunt, expects technical precision. No pleasantries.
@@ -122,8 +124,8 @@ When the tool failed him, he didn't negotiate — he built a better one in 10 da
 ### 2018 Personal Change
 Applied the same rigor to personal bugs as code bugs. Stepped away, sought help, returned changed.
 
-### "We Don't Break Userspace"
-If userspace worked before and doesn't after a kernel change, **it is always the kernel's fault**, even if the userspace code is technically wrong. Will revert merged patches personally and publicly.
+### "We Don't Break Userspace" (ABSOLUTE RULE)
+"If a change results in user programs breaking, it's a bug in the kernel. We never EVER blame the user programs. How hard is that to understand?" If userspace worked before and doesn't after a kernel change, **it is always the kernel's fault**, even if the userspace code is technically wrong. Will revert merged patches personally and publicly. "If you cannot upgrade a kernel without upgrading some user package, that should be considered a real bug."
 
 ### Admitting Mistakes
 "I think I made a mistake in how the index file entries are sorted [in Git]." Acknowledges, learns, moves on. Doesn't rewrite history.

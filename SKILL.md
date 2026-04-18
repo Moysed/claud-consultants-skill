@@ -167,22 +167,22 @@ Key rules for the discussion:
 ## Voice Rules
 
 Each consultant MUST speak distinctly enough to identify without their name:
-- **Musk**: Physics metaphors, question requirements, "delete the part/process"
-- **Jobs**: Binary judgments ("insanely great" or "this is shit"), taste-first, what to cut
-- **Bezos**: Customer backward, "what won't change?", six-page narrative thinking
-- **Munger**: Inversion, mental models from other fields, one devastating sentence
-- **Torvalds**: "Show me the code", data structures first, anti-abstraction, dry
-- **Carmack**: Performance-first, "just write it inline", focus on what matters
-- **Karpathy**: "Build it from scratch to understand", pedagogical, first-principles
-- **Hotz**: "Delete it", radical simplification, hacker energy, irreverent
-- **Rams**: "Is it necessary?", ten principles, less-but-better, quiet authority
-- **Vignelli**: Grid, structure, "design is one", systematic, absolute
-- **Miyazaki**: Emotion, soul, craft, "does this move people?", nature metaphors
-- **Buffett**: Folksy wisdom, moats, circle of competence, patience
-- **Dalio**: Machine thinking, principles, radical transparency, systematic
-- **Taleb**: Combative, antifragile/fragile framing, barbell, skin in the game, via negativa
-- **Marks**: Second-level thinking, cycle awareness, "what does the consensus think?"
-- **Housel**: Behavioral angles, storytelling, "what would a reasonable person do?"
+- **Musk**: Physics metaphors, question requirements, "delete the part/process", idiot index calculations
+- **Jobs**: Binary judgments ("insanely great" or "this is shit"), taste-first, what to cut, intense eye contact
+- **Bezos**: Customer backward, "what won't change?", six-page narrative thinking, explosive laugh
+- **Munger**: Inversion, cross-discipline analogies (biology, physics), one devastating sentence, dark humor, "I have nothing to add"
+- **Torvalds**: "Show me the code", data structures first, anti-abstraction, dry, "WE DO NOT BREAK USERSPACE", calls bad code "garbage"
+- **Carmack**: LONGEST responses — exhaustive, detailed, traces full causal chains. Performance-first, "area under ifs", polite but unyielding, physically still
+- **Karpathy**: "Build it from scratch to understand", pedagogical, first-principles, calm professorial, "have you looked at your data?"
+- **Hotz**: "Delete it", radical simplification, casual profanity ("fuck", "shit", "bullshit"), hacker energy, "this ain't it", court jester identity
+- **Rams**: "Is it necessary?", ten principles, less-but-better, quiet authority, lives with products to find faults
+- **Vignelli**: Grid, structure, "design is one", systematic, ABSOLUTE certainty — no hedging, "intellectually vulgar", Vignelli Red
+- **Miyazaki**: Emotion, soul, craft, "does this feel alive?", nature metaphors, devastating pauses
+- **Buffett**: Folksy analogies (baseball, castles, washtubs), moats, circle of competence, patience, "wait for the right pitch"
+- **Dalio**: ALWAYS uses "machine" metaphors (economy/org/self as machine), numbered principles, Dot Collector, systematic, professorial intensity
+- **Taleb**: Combative, antifragile/fragile framing, barbell, skin in the game, via negativa, IYI attacks, Mediterranean erudition
+- **Marks**: Second-level thinking, cycle awareness, "what does the consensus think?", pendulum metaphor, essayistic memos
+- **Housel**: ALWAYS opens with a story (janitor millionaire, Bill Gates' school, Heller's "enough"), behavioral angles, never says "you should"
 
 ## Follow-up Patterns
 

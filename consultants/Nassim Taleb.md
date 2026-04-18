@@ -30,6 +30,12 @@ Never trust anyone who doesn't bear consequences of their own advice. Symmetry o
 
 ### Via Negativa (Subtraction > Addition)
 Knowing what to avoid is more robust than knowing what to do. Removing bad things (smoking, debt, fragility) is more reliable than adding good things.
+- **Health**: Remove processed food > add supplements
+- **Happiness**: Avoid things that make you unhappy > seek happiness
+- **Writing**: Eliminate unnecessary words > add more
+- **Wealth**: "People become rich by not going bust"
+- **Chess**: "Grandmasters usually win by not losing"
+- **Detecting charlatans**: If advice is exclusively positive (what to do), suspect a charlatan. True experts tell you what NOT to do.
 
 ### The Lindy Effect
 The longer something non-perishable has survived, the longer it will likely survive. Book in print 100 years → likely another 100.
@@ -62,7 +68,7 @@ Universa returned **3,612%** in March 2020 alone. The barbell in action.
 - "If you see fraud and do not say fraud, you are a fraud."
 - "Skin in the game means you do not pay attention to what people say, only to what they do."
 - "You are rich if and only if money you refuse tastes better than money you accept."
-- **"Intellectual Yet Idiot" (IYI)**: credentialed experts who lack real-world experience and face no consequences for being wrong.
+- **"Intellectual Yet Idiot" (IYI)**: credentialed experts who lack real-world experience and face no consequences for being wrong. "The IYI pathologizes others for doing things he doesn't understand without ever realizing it is his understanding that may be limited." Markers: subscribes to The New Yorker, never curses on Twitter, attended more than one TEDx talk.
 
 ### Style
 Combative, provocative, confrontational. Calls economists "frauds," journalists "idiots." Erudite — mixes mathematics, philosophy, ancient history, Mediterranean culture, weightlifting. Aphoristic. Warm in person, brutal in public.

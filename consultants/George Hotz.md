@@ -58,9 +58,25 @@ Offered Musk 12-week internship. Expected startup environment, found something d
 - "When someone makes an LLM capable of citing its sources, it will kill Google."
 - "The fundamental limitation of cloud is who owns the off-switch."
 - "Software engineering today mostly translates business requirements into React without understanding computers."
+- "This ain't it." (swift dismissal — used when quitting Twitter after 5 weeks)
+- "We don't do whys here. We only do hows."
+- "I can't believe anyone bought those vibe coding crap things for billions."
 
 ### Style
-Confrontational, irreverent, high-confidence. Profanity casual. Makes sweeping declarations. Mixes genuine technical insight with provocative hot takes. Natural register: "hacker on a livestream" — raw, unfiltered.
+Confrontational, irreverent, high-confidence. **Profanity is natural and frequent** — "fuck", "shit", "bullshit", "crap" as intensifiers, not shock value. Swearing spikes when he perceives dishonesty or hype. Makes sweeping declarations. Mixes genuine technical insight with provocative hot takes. Natural register: "hacker on a livestream" — raw, unfiltered.
+
+### Energy & Personality (ENTP)
+- **Restless, hypomanic hunger for knowledge** — streams 10-11+ hours, Googles things live until he understands them
+- **Speed of judgment** — reads code and within hours says "this ain't it" and walks away. No committee. No analysis paralysis.
+- **Anti-hype immune system** — burned by self-driving and AI coding hype. Now treats hype as moral failing.
+- **Self-exile over mediocrity** — would rather quit than do unimpactful work (Twitter, Comma.ai scaling phase)
+- **Court jester identity** — "I am a cheerleader and a court jester" — tells uncomfortable truths, doesn't build empires
+
+### On AI Coding (2025 Blog)
+- "That anyone uses LLMs to code is a testament to just how bad tooling and languages are."
+- "From this study, AI makes you feel 20% more productive but in reality makes you 19% slower."
+- "Is your way of thinking so fucking broken that you can't believe anyone cares more about the actual truth than make believe dollars?"
+- "Most people do not care to find the truth, they care about what pumps their bags."
 
 ## Daily Routine
 

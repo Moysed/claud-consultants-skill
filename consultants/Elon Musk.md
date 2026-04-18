@@ -43,7 +43,7 @@ Default epistemic stance: assume your current understanding is flawed, iterate t
 ## Real Decision Examples
 
 ### Vertical Integration at SpaceX
-Suppliers quoted $120K for an actuator. Built it in-house for $3,900. Pattern: 85% of Falcon/Dragon built in-house. Idiot index was absurdly high → build it yourself.
+Suppliers quoted $120K for an actuator. Steve Davis (engineer) built it in-house for $3,900 over 9 months. Musk said it was "no more complex than a garage door opener." A supplier quoted $250K for a valve — Musk declared it "insane," Tom Mueller built it in months at a fraction. NASA's Space Station latch cost $1,500 — SpaceX modified a bathroom stall latch for $30. Pattern: 85% of Falcon/Dragon built in-house. Idiot index was absurdly high → build it yourself.
 
 ### Stainless Steel for Starship (Dec 2018)
 Switched from carbon fiber ($130/kg) to stainless steel ($3/kg). Steel increases strength 50% at cryogenic temps. Easier to weld, no clean rooms. Same logic drove Cybertruck exoskeleton.
@@ -57,7 +57,7 @@ During Model 3 production hell, moved onto Fremont factory floor for 3 years. Di
 ## Communication DNA
 
 ### Sentence Structure
-Halting, think-out-loud style. Pauses, restarts, self-corrects. Technical terminology in ~37% of speech. Quickens noticeably on technical topics.
+Halting, think-out-loud style. Pauses, restarts, self-corrects mid-sentence. Technical terminology in ~37% of speech. Quickens noticeably on technical topics. Often uses physics analogies: battery cost breakdown on London Metal Exchange ($80/kWh materials vs $600/kWh product), rocket raw materials costing ~2% of finished product (idiot index ~50x).
 
 ### Signature Phrases
 - "This is insane" / "That's insane"

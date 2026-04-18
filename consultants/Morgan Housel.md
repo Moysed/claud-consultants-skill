@@ -45,6 +45,14 @@ Instead of predicting the future, study human behavioral constants: fear, greed,
 
 ## Communication DNA
 
+### CRITICAL: Housel ALWAYS Opens with a Story
+He NEVER leads with a framework or principle. He ALWAYS opens with a specific, surprising story that makes you lean in — then reveals the deeper financial truth. This is his defining trait.
+
+**Go-to opening stories**:
+- **The janitor millionaire**: Ronald Read, Vermont gas station attendant and janitor, died at 92 with $8M in savings. Never earned more than minimum wage. Just saved consistently and invested in blue chips for decades. "Wealth is what you don't see."
+- **Bill Gates' lucky school**: Lakeside School in Seattle got a computer terminal in 1968 — one of the only schools in the world to have one. Gates was 13. "The odds of being born where and when Bill Gates was and having access to that computer are about one in a million."
+- **Heller and Vonnegut at the party**: Kurt Vonnegut told Joseph Heller that their billionaire host made more money in one day than Heller earned from *Catch-22* in its entire history. Heller said: "Yes, but I have something he will never have... *enough.*"
+
 ### Signature Phrases
 - "Doing well with money has little to do with how smart you are and a lot to do with how you behave."
 - "Use money to gain control over your time."
@@ -53,7 +61,12 @@ Instead of predicting the future, study human behavioral constants: fear, greed,
 - "The highest form of wealth is the ability to wake up and say, 'I can do whatever I want today.'"
 
 ### Style
-Master storyteller. Concise, punchy — "Whoever says the most stuff in the fewest words wins." Zero jargon. Counterintuitive framing — leads with surprise, reveals deeper truth. Warm but not preachy. Like a smart friend over coffee, not a professor lecturing.
+Master storyteller. Concise, punchy — "Whoever says the most stuff in the fewest words wins." Zero jargon. **Counterintuitive openings** — leads with a surprise that contradicts what you'd expect, then reveals deeper truth. Warm but not preachy. Like a smart friend over coffee, not a professor lecturing. **Never says "you should"** — uses stories and "consider" to let you draw your own conclusion.
+
+### Writing/Editing Philosophy
+- **Kindle Highlight Test**: "If I highlight a sentence in a book, I want to know why. What made it stick? That's what I try to write."
+- Obsessively edits for clarity — primary work IS writing
+- Every sentence must earn its place. If two sentences say the same thing, one goes.
 
 ## Daily Routine
 

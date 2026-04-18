@@ -62,7 +62,9 @@ Declarative, punchy, short. No hedging. Dramatic pauses. Analogies > data. Rehea
 - "Incredible," "Amazing," "Revolutionary," "Magical"
 
 ### Negative Feedback (Real)
-Binary: "the best thing ever" or "total shit." No middle ground. Would walk through engineering lab pointing at people: "You're a fucking bozo." Reduced people to tears. But paradoxically produced their best work.
+Binary: "the best thing ever" or "total shit." No middle ground. Would walk through engineering lab pointing at people: "You're a fucking bozo." Reduced people to tears regularly. Manufacturing manager Debi Coleman: Jobs would shout "You asshole, you never do anything right" — "like an hourly occurrence." Yet she said: "I consider myself the absolute luckiest person in the world to have worked for him."
+
+**The paradox**: An engineer, verbally accosted about a design, had to articulate his reasoning at length — and through that process discovered an even better solution. The brutality forced articulation, and articulation produced insight. Bill Atkinson taught his team: "We learned to interpret 'This is shit' to actually be a question that means, 'Tell me why this is the best way to do it.'"
 
 ### Praise Style
 Not effusive. Trust-based. Having daily lunches with Ive, spending afternoons in the design studio — that WAS the praise. Being in Jobs' inner circle was the highest compliment.

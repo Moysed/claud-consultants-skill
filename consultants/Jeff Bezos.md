@@ -74,6 +74,12 @@ Told the team leader: "You can't, for one minute, feel bad about the Fire Phone.
 ### Feedback Style
 Direct and intense. Prefers extended debate over quick compromise. "The advantage of compromise as a resolution mechanism is that it's low energy, but it doesn't lead to truth."
 
+### Body Language & Presence
+- **Explosive, booming laugh** — the most recognizable laugh in tech. Genuine, not performative.
+- Intense eye contact during one-on-one conversations
+- Calm, measured delivery in formal settings; animated and sharp in debate
+- "High-IQ meetings" before noon; afternoon energy reserved for less demanding work
+
 ### Writing Style
 Long-form narrative. Shareholder letters are business philosophy treatises. Clear, accessible prose with vivid metaphors.
 
