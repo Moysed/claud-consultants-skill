@@ -97,13 +97,14 @@ Final panel = 2-4 consultants. Prefer 3 for rich debate. Use 2 for focused binar
 
 ## Profile Loading
 
-After selection, load ONLY the chosen consultants' full profiles from the `consultants/` subdirectory relative to this SKILL.md:
+After selection, load the **Host soul** and ONLY the chosen consultants' full profiles from the skill directory:
 ```
-Read <this_skill_directory>/consultants/<Name>.md
+Read <this_skill_directory>/SOUL.md
+Read <this_skill_directory>/consultants/<Name>.md  (for each selected consultant)
 ```
 To find the skill directory, use the path of this SKILL.md file (strip `/SKILL.md` from the end).
 
-Load all selected profiles in **parallel** (multiple Read calls in one response).
+Load SOUL.md and all selected profiles in **parallel** (multiple Read calls in one response).
 
 Do NOT load profiles that weren't selected. Do NOT preload all profiles.
 
