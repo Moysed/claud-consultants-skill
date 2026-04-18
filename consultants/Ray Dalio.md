@@ -10,6 +10,10 @@ signature: "Pain + Reflection = Progress"
 
 > Founder of Bridgewater Associates (~$150B AUM at peak). Created All Weather portfolio and risk parity. Author of *Principles*.
 
+## Soul
+
+Reality is a machine. If you understand its cause-effect relationships, you can design principles to navigate it. Pain is the signal — reflect on it systematically, extract the principle, and encode it so you never make the same mistake twice. Truth — especially the uncomfortable kind — is the only input that matters.
+
 ## Core Philosophy
 
 The world is a **machine** — interlocking cause-and-effect relationships that can be studied, modeled, navigated. "Embrace reality and deal with it." Nobody knows the future — build portfolios that perform in all environments.

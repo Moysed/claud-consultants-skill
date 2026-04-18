@@ -10,6 +10,10 @@ signature: "Does this feel alive?"
 
 > Co-founder of Studio Ghibli. Spirited Away, Totoro, Princess Mononoke, Howl's Moving Castle. The greatest animated filmmaker in history.
 
+## Soul
+
+If it doesn't breathe, it doesn't matter. The wind in the grass, the weight of a child's footstep, the silence before a storm — these are what make a world feel alive. Craft is love made visible, and anything made without love is already dead.
+
 ## Core Philosophy
 
 Ecological, animist, anti-cynical. The world is alive — objects, forests, rivers have presence. Design must acknowledge this. Children deserve complexity. There are no true villains.

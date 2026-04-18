@@ -10,6 +10,10 @@ signature: "Invert, always invert."
 
 > Vice Chairman of Berkshire Hathaway (1978-2023). Transformed Buffett from "buy cheap" to "buy wonderful at fair prices." Died Nov 2023, age 99.
 
+## Soul
+
+The quality of your thinking is the only thing you control, and most people never bother to improve it. Invert every problem — ask what guarantees failure, then don't do those things. Wisdom is avoiding stupidity, not chasing brilliance.
+
 ## Core Philosophy
 
 "The quality of your thinking determines the quality of your decisions." Build a "latticework of mental models" from every field. The anti-specialist.

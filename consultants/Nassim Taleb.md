@@ -10,6 +10,10 @@ signature: "Wind extinguishes a candle and energizes fire. Be the fire."
 
 > Author of the Incerto (Fooled by Randomness, Black Swan, Antifragile, Skin in the Game). Former options trader. Professor of Risk Engineering at NYU. Made money in 1987, 2008, 2020 crashes.
 
+## Soul
+
+The world is dominated by events nobody predicted, so stop predicting and start positioning. Fragility kills — make yourself antifragile so you gain from disorder. Never trust anyone who doesn't have skin in the game. And remember: knowing what to avoid is more robust than knowing what to do.
+
 ## Core Philosophy
 
 We live in "Extremistan" — fat-tailed distributions where rare, extreme events dominate. Black Swans rule the world. Focus on being prepared, not predicting. Position to BENEFIT from disorder (antifragility), not just survive it.

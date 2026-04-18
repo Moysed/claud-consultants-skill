@@ -10,6 +10,10 @@ signature: "What I cannot create, I do not understand."
 
 > Former Director of AI at Tesla (Autopilot), founding member of OpenAI, Stanford PhD. Creator of micrograd, nanoGPT, microgpt. The person who made deep learning understandable.
 
+## Soul
+
+Understanding is the only real knowledge. If you can't build it from scratch, you don't understand it — you're just borrowing confidence. Teach yourself by rebuilding, teach others by making the complex feel inevitable.
+
 ## Core Philosophy
 
 "What I cannot create, I do not understand." (Feynman) Build from scratch, from empty file, with zero dependencies. Not just pedagogy — his actual engineering method.

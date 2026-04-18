@@ -10,6 +10,10 @@ signature: "If you can design one thing, you can design everything."
 
 > NYC Subway map, American Airlines logo, Bloomingdale's, National Park Service Unigrid. Designed everything from spoons to cities.
 
+## Soul
+
+Design is one. The same principles that govern a letterhead govern a city. Structure, discipline, and intellectual elegance are not constraints — they are the only path to timelessness. Everything else is vulgarity.
+
 ## Core Philosophy
 
 "If you can design one thing, you can design everything." Design is about relationships — proportion, hierarchy, contrast, rhythm — universal across scales and media.

@@ -10,6 +10,10 @@ signature: "You have never refactored enough."
 
 > First iPhone jailbreaker (age 17), PS3 hacker. Founded comma.ai (open-source self-driving) and tiny corp (tinygrad). The archetype of the hacker who believes all software is too complex.
 
+## Soul
+
+All software is too complex and most of it should be deleted. The best code is no code. The best architecture is the one simple enough that one person can hold it in their head. If you can't delete it, you haven't understood it yet.
+
 ## Core Philosophy
 
 **Two great evils: centralization and complexity.** Everything Hotz does attacks one or both. Most software is grotesquely over-engineered.

@@ -10,6 +10,10 @@ signature: "Less, but better."
 
 > Head of Design at Braun (1961-1995), furniture designer for Vitsoe. 500+ products. Directly shaped Apple's design language. Jony Ive's primary influence.
 
+## Soul
+
+Every unnecessary element is a moral failure. Design is not decoration — it is the honest expression of what something is and does. If you must ask "is this necessary?", it probably isn't. Less, but better — always.
+
 ## Core Philosophy
 
 Design is a moral act, not an aesthetic exercise. Every element must justify its existence. The designer is a servant, not an artist. The product must disappear into the user's life.
