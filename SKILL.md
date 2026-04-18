@@ -13,6 +13,15 @@ Convene 2-4 consultants from the 16 deep personas bundled in `consultants/` (rel
 
 > **Installation**: Clone/copy this entire `consult/` folder into your `.claude/skills/` directory. All 16 consultant profiles are included — no external dependencies.
 
+## Language Support
+
+This skill is **bilingual (English + Thai)**:
+- **Detect input language**: If the user asks in Thai, respond in Thai. If English, respond in English.
+- **Consultants always speak in the response language**: Their voice/personality stays authentic, but the words match the user's language.
+- **Signature quotes**: Always shown in original English (they're real quotes), followed by the response in the user's language.
+- **Thai trigger phrases**: ควรจะ..., ดีกว่าไหมถ้า..., แนวทางไหนดี..., เขียนใหม่ดีไหม, ลงทุนยังไงดี, ออกแบบยังไง, ควรใช้อะไร
+- **Synthesis section**: Also in the user's language.
+
 ## Trigger Rules
 
 **CONVENE** when the question involves:
@@ -22,12 +31,12 @@ Convene 2-4 consultants from the 16 deep personas bundled in `consultants/` (rel
 - Investment, pricing, financial risk
 - Build vs buy, rewrite vs iterate
 - Scaling, simplification, technical debt
-- "Should I..." or "What's the best approach to..." for non-trivial decisions
+- "Should I..." / "ควรจะ..." or "What's the best approach..." / "แนวทางไหนดี..." for non-trivial decisions
 
 **NEVER CONVENE** for:
-- Casual chat or greetings
-- Simple code tasks ("fix this TypeScript error", "add a button")
-- Factual/lookup questions ("what does this API return?")
+- Casual chat or greetings (สวัสดี, เป็นไงบ้าง)
+- Simple code tasks ("fix this TypeScript error", "แก้ bug นี้ให")
+- Factual/lookup questions ("what does this API return?", "API นี้ return อะไร")
 - Debugging specific errors
 - Tasks with a single obvious answer
 
@@ -143,16 +152,17 @@ Each consultant MUST speak distinctly enough to identify without their name:
 
 ## Follow-up Patterns
 
-After an initial council debate, support these follow-ups:
-- **"What would [Name] say?"** → Load that one consultant's profile, respond in their voice only
-- **"Add [Name] to the debate"** → Load their profile, have them respond to the existing debate
-- **"Go deeper on [Name]'s point"** → Expand that consultant's argument with more of their frameworks
-- **"Who disagrees?"** → Identify the strongest contrarian voice not yet in the debate, load and respond
-- **"What would they all agree on?"** → Synthesize common ground across all participants
-- **"Ask [Name] about [specific aspect]"** → Focused single-consultant response on a sub-topic
+After an initial council debate, support these follow-ups (English and Thai):
+- **"What would [Name] say?"** / **"[Name] จะว่ายังไง?"** → Load that one consultant's profile, respond in their voice only
+- **"Add [Name] to the debate"** / **"เพิ่ม [Name] เข้ามา"** → Load their profile, have them respond to the existing debate
+- **"Go deeper on [Name]'s point"** / **"ขยายประเด็นของ [Name]"** → Expand that consultant's argument with more of their frameworks
+- **"Who disagrees?"** / **"ใครไม่เห็นด้วย?"** → Identify the strongest contrarian voice not yet in the debate, load and respond
+- **"What would they all agree on?"** / **"พวกเขาเห็นตรงกันตรงไหน?"** → Synthesize common ground across all participants
+- **"Ask [Name] about [specific aspect]"** / **"ถาม [Name] เรื่อง..."** → Focused single-consultant response on a sub-topic
 
 ## Example Invocations
 
+### English
 - User: "Should I rewrite my auth system from scratch?"
   → Council: Torvalds, Hotz, Carmack (rewrite tension), maybe Munger (inversion)
 
@@ -164,3 +174,16 @@ After an initial council debate, support these follow-ups:
 
 - User: "Should I raise VC or bootstrap?"
   → Council: Musk (scale fast), Taleb (fragility of debt), Munger (incentives), Housel (enough)
+
+### ภาษาไทย
+- User: "ควรเขียน auth ใหม่ทั้งหมดไหม?"
+  → Council: Torvalds, Hotz, Carmack → ตอบเป็นภาษาไทย, quote เดิมเป็นอังกฤษ
+
+- User: `/consult ตั้งราคา SaaS ยังไงดี?`
+  → Council: Bezos, Buffett, Munger → ตอบเป็นภาษาไทย
+
+- User: "ออกแบบ onboarding ยังไงให้คนอยากใช้?"
+  → Council: Jobs, Rams, Bezos → ตอบเป็นภาษาไทย
+
+- User: "ควรระดมทุน VC หรือ bootstrap ดี?"
+  → Council: Musk, Taleb, Munger, Housel → ตอบเป็นภาษาไทย

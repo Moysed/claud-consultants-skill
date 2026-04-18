@@ -4,6 +4,8 @@
 
 16 deep-research personas across Business, Engineering, Design, and Finance — each with authentic voice, real frameworks, signature quotes, and known blind spots. Ask a strategic question, get a council debate with synthesis.
 
+**Bilingual: English + Thai (ภาษาไทย)** — Ask in Thai, get Thai responses. Signature quotes stay in original English.
+
 ## Install
 
 ```bash
@@ -17,22 +19,29 @@ That's it. No dependencies. No config. Just `/consult`.
 
 ## Usage
 
-### Explicit
+### English
 ```
 /consult Should I rewrite my auth system from scratch?
 /consult What's the best pricing strategy for my SaaS?
 /consult Should I raise VC or bootstrap?
 ```
 
+### ภาษาไทย
+```
+/consult ควรเขียน auth ใหม่ทั้งหมดไหม?
+/consult ตั้งราคา SaaS ยังไงดี?
+/consult ควรระดมทุน VC หรือ bootstrap ดี?
+```
+
 ### Auto-trigger
-The skill auto-detects strategic questions about architecture, design, investing, pricing, rewrites, scaling, and product direction. Just ask naturally — the council convenes when it's relevant.
+The skill auto-detects strategic questions about architecture, design, investing, pricing, rewrites, scaling, and product direction — in both English and Thai. Just ask naturally.
 
 ### Follow-ups
 After a debate, you can:
-- **"What would Taleb say?"** — single-consultant deep dive
-- **"Add Bezos to the debate"** — bring in a new voice
-- **"Go deeper on Munger's point"** — expand one argument
-- **"Who disagrees?"** — find the strongest contrarian
+- **"What would Taleb say?"** / **"Taleb จะว่ายังไง?"** — single-consultant deep dive
+- **"Add Bezos to the debate"** / **"เพิ่ม Bezos เข้ามา"** — bring in a new voice
+- **"Go deeper on Munger's point"** / **"ขยายประเด็นของ Munger"** — expand one argument
+- **"Who disagrees?"** / **"ใครไม่เห็นด้วย?"** — find the strongest contrarian
 
 ## The 16 Consultants
 
